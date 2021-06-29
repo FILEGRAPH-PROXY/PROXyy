@@ -16,9 +16,9 @@
 پروکسی۱۴:https://t.me/proxy?server=136.243.68.147&port=543&secret=ee00000000000000000000000000000000646c2e676f6f676c652e636f6d
 پروکسی۱۵:https://t.me/proxy?server=65.21.108.25&port=443&secret=7gAAAAAAAAAAAAAAAAAAAABtYXBzLmdvb2dsZS5jb20
 پروکسی۱۶:https://t.me/proxy?server=194.5.192.188&port=7070&secret=7v____8yQuCqgPoSAzPu7u5veC5hYy51aw==
-پروکسی۱۷
-پروکسی۱۸
-پروکسی۱۹
+پروکسی۱۷:https://t.me/proxy?server=49.12.101.35&port=443&secret=ee550fbe912b27753fa54a23c73ba806347765622e727562696b612e636f6d
+پروکسی۱۸:https://t.me/proxy?server=138.201.118.5&port=443&secret=ee550fbe912b27753fa54a23c73ba806347765622e727562696b612e636f6d
+پروکسی۱۹:https://t.me/proxy?server=104.149.148.150&port=8443&secret=7oGdFtjR0CD-uCs_n3i8-vNhbGliYWJhLmNvbQ
 پروکسی۲۰
 پروکسی۲۱:https://t.me/proxy?server=151.115.54.94&port=7341&secret=eebb10110d7947dcf164aaa703e10c9f7b7777772e736974652e636f6d&
 
