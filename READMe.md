@@ -19,7 +19,7 @@
 پروکسی۱۷:https://t.me/proxy?server=49.12.101.35&port=443&secret=ee550fbe912b27753fa54a23c73ba806347765622e727562696b612e636f6d
 پروکسی۱۸:https://t.me/proxy?server=138.201.118.5&port=443&secret=ee550fbe912b27753fa54a23c73ba806347765622e727562696b612e636f6d
 پروکسی۱۹:https://t.me/proxy?server=104.149.148.150&port=8443&secret=7oGdFtjR0CD-uCs_n3i8-vNhbGliYWJhLmNvbQ
-پروکسی۲۰
+پروکسی۲۰:https://t.me/proxy?server=95.216.199.190&port=443&secret=ee550fbe912b27753fa54a23c73ba806347765622e727562696b612e636f6d
 پروکسی۲۱:https://t.me/proxy?server=151.115.54.94&port=7341&secret=eebb10110d7947dcf164aaa703e10c9f7b7777772e736974652e636f6d&
 
 لیست بروز و اپدیت میشه
